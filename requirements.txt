@@ -1,0 +1,2 @@
+# Requires: paradoxical-postponement
+# (Not available on PyPI)
